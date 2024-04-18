@@ -1,2 +1,2 @@
 # ztm
-[Startup Landing Page](cwd-startup-landing-page)
+[Startup Landing Page](https://dimakreminskyi.github.io/ztm/cwd-startup-landing-page/)
